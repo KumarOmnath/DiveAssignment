@@ -1,0 +1,211 @@
+Before navigating to: 'https://rumevideo.com/'
+Navigated to:'https://rumevideo.com/'
+Trying to find Element By : By.xpath: //*[.='START A RUME']
+Found Element By : By.xpath: //*[.='START A RUME']
+Trying to find Element By : By.xpath: //*[.='START A RUME']
+Found Element By : By.xpath: //*[.='START A RUME']
+expected elementSTART A RUME is displayed
+Trying to find Element By : By.xpath: //*[.='START A RUME']
+Found Element By : By.xpath: //*[.='START A RUME']
+Trying to find Element By : By.xpath: //*[.='START A RUME']
+Found Element By : By.xpath: //*[.='START A RUME']
+Trying to find Element By : By.xpath: //*[.='START A RUME']
+Found Element By : By.xpath: //*[.='START A RUME']
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[2]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[2]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[2]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[2]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[2]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[2]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1f5c01bb60728dc1efbc6aa33a7f69cf)] -> xpath: (//*[@stroke='currentColor'])[2]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1f5c01bb60728dc1efbc6aa33a7f69cf)] -> xpath: (//*[@stroke='currentColor'])[2]]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1f5c01bb60728dc1efbc6aa33a7f69cf)] -> xpath: (//*[@stroke='currentColor'])[3]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1f5c01bb60728dc1efbc6aa33a7f69cf)] -> xpath: (//*[@stroke='currentColor'])[3]]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Trying to find Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Found Element By : By.xpath: (//*[@stroke='currentColor'])[3]
+Switch to recent window
+1
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random Text01622
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Switch to recent window
+2
+2
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random TextGZ
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Switch to recent window
+3
+3
+3
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random TextDIGDD
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Switch to recent window
+4
+4
+4
+4
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random Text58B5N
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Switch to recent window
+5
+5
+5
+5
+5
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random Text2MRJ2
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Switch to recent window
+6
+6
+6
+6
+6
+6
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random Text96CXQ
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Switch to recent window
+7
+7
+7
+7
+7
+7
+7
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LAPTOP-02H2H77P', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\kumar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50957}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f5c01bb60728dc1efbc6aa33a7f69cf
+*** Element info: {Using=xpath, value=//button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]}
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Clear text in text field
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Generating Random Text
+Generating Random TextB403I
+Trying to find Element By : By.xpath: //*[@name='displayName']
+Found Element By : By.xpath: //*[@name='displayName']
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Trying to find Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+Found Element By : By.xpath: //button[contains(@class,'MuiButtonBase-root MuiButton-root MuiButton-contained Mu')]
+move again to parent window
+Capturing the window of current control
+<<<<<<<<<browser close>>>>>>>>>>>>>
+PASSED: feature(Open Rume website & check with 8 participant)
+        Runs Cucumber Feature
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+Configuration Failures: 1, Skips: 0
+===============================================
+
